@@ -517,11 +517,11 @@
                 box-sizing: border-box;
                 position:relative;
                 display:block;
-                width: 33%;
+                width: 50%;
             }
 
            .main_flex_coding .flex_item{
-            width:33%;
+            width:50%;
 
            }
             /* -------About Page--------- */
